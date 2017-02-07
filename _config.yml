@@ -1,7 +1,7 @@
 
 title: My Resume
-url: 'http://wangkunyu.me'
-baseurl: '/resume' #change it according to your repository name
+url: 'http://wangkunyu.com'
+baseurl: 'wangkunyu.github.io' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -20,7 +20,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: wangkunyu95@qq.com
 phone: +86 13212116965
-website: wangkunyu.github.io/cv/ #do not add http://
+website: wangkunyu.com #do not add http://
 github: wangkunyu
 
 
